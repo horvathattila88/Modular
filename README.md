@@ -16,6 +16,9 @@ There are some exceptions, like the ringmodulator, i've made a dual ringmod with
 Here is the status of the modules: 
 
 PSU, rails - Tested OK, pinouts are the same as on the modules, be careful when making ribbon cables! 
+
 MFOS VCF 12dBi state variable - Tested OK (sounds sweet) 
+
 MFOS VC LFO - Tested OK 
+
 MFOS VCO - Tested, not calibrated yet
